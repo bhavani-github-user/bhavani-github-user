@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AWS Cloud
 - 📫 How to reach me :
 <br /> (https://www.linkedin.com/in/bhavani-vk/)
-- ⚡ Fun fact: I know French.
+- ⚡ Fun fact: I know German.
 
 
 ### Operating Systems I Use
