@@ -2,7 +2,7 @@
 
                                                
 -  I’m currently learning Devops
-- 👯 I’m looking to collaborate on AWS Cloud
+- 👯 I’m looking to collaborate on AWS Cloud and GCP Cloud
 - 📫 How to reach me :
 <br /> (https://www.linkedin.com/in/bhavani-vk/)
 - ⚡ Fun fact: I know German.
